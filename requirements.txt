@@ -1,0 +1,7 @@
+-e git+https://github.com/facebookresearch/fastText.git@3ba1758d1ce4c660b82086067ad876a835af43ae#egg=fasttext
+numpy==1.14.3
+pandas==0.22.0
+scikit-learn==0.19.1
+scipy==1.0.1
+seaborn==0.8.1
+skift==0.0.11
