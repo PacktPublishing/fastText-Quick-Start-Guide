@@ -2,6 +2,11 @@
 Small script so that it is easy to work with the pipe operator and can be
 plugged in easily with other bash commands.
 
+Please ensure that the nltk english package is already downloaded before this.
+
+>>> import nltk
+>>> nltk.download('stopwords')
+
 Usage: cat raw_data.txt | python remove_stop_words.py > no_stop_words.txt
 
 """
