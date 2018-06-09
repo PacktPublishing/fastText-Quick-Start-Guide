@@ -32,7 +32,7 @@ FT_MODEL = fastText.load_model(FT_MODEL)
 print('model is loaded')
 threshold = 100000
 
-# Gets words with associated frequeny sorted by default by descending order
+# Gets words with associated frequency sorted by default by descending order
 words, freq = FT_MODEL.get_words(include_freq=True)
 words = words[:threshold]
 vectors = np.zeros((len(words), FT_MODEL.get_dimension()), dtype=float)
