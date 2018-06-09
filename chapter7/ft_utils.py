@@ -1,12 +1,27 @@
+"""
+This module contains the fasttext related code to load the module, get some
+words from the module, compute the vectors for the code and then keep them in
+memory. Functions to compute the nearest neighbor words based on the question
+word are also defined here.
+
+Usage
+-----
+    $ python ft_utils.py
+    loading the model
+    model is loaded
+    words similar to hungry:
+    grownups
+    angry
+    dachshunds
+    tired
+    hunger
+
+"""
 import fastText
 from fastText.util.util import find_nearest_neighbor
 from fastText import load_model
-import pandas as pd
-import re
 import numpy as np
-import csv
 import os
-from scipy import stats
 
 
 print('loading the model')
