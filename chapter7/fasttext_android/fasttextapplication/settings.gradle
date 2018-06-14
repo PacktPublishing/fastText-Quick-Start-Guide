@@ -1,0 +1,1 @@
+include ':app', ':fasttext4j-0.2.1-SNAPSHOT', ':commons-cli-1.4', ':log4j-1.2.17'

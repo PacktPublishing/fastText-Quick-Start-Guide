@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FastText application</string>
+    <string name="edit_message">Enter a string</string>
+    <string name="button_send">Send</string>
+</resources>
