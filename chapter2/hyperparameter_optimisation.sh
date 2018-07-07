@@ -28,7 +28,6 @@ do
                 echo "present accuracy:"
                 cat performance.txt
             fi
-            
         done
     done
 done
