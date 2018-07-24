@@ -1,13 +1,16 @@
 # fastText Quick Start Guide
 
-<a href="https://www.packtpub.com/big-data-and-business-intelligence/fasttext-quick-start-guide?utm_source=github&utm_medium=repository&utm_campaign="><img src="" alt="" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/big-data-and-business-intelligence/fasttext-quick-start-guide?utm_source=github&utm_medium=repository&utm_campaign="><img src="https://dz13w8afd47il.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B10726_MockupCover.png" alt="fastText Quick Start Guide" height="256px" align="right"></a>
 
-This is the code repository for [](https://www.packtpub.com/big-data-and-business-intelligence/fasttext-quick-start-guide?utm_source=github&utm_medium=repository&utm_campaign=), published by Packt.
+This is the code repository for [fastText Quick Start Guide](https://www.packtpub.com/big-data-and-business-intelligence/fasttext-quick-start-guide?utm_source=github&utm_medium=repository&utm_campaign=9781789130997), published by Packt.
 
-****
+**Get started with Facebook's library for text representation and classification**
 
 ## What is this book about?
-0
+Facebook's fastText library handles text representation and classification, used for Natural Language Processing (NLP). Most organizations have to deal with enormous amounts of text data on a daily basis, and gaining efficient data insights requires powerful NLP tools such as fastText. 
+This book is your ideal introduction to fastText. You will learn how to create fastText models from the command line, without the need for complicated code. You will explore the algorithms that fastText is built on and how to use them for word representation and text classification. 
+Next, you will use fastText in conjunction with other popular libraries and frameworks such as Keras, TensorFlow, and PyTorch. 
+Finally, you will deploy fastText models to mobile devices. By the end of this book, you will have all the required knowledge to use fastText in your own applications at work or in projects.
 
 This book covers the following exciting features:
 
@@ -39,13 +42,8 @@ With the following software and hardware list you can run all code files present
 | 1 | fastText 0.1.0, Python 3 or above, Docker Community Edition 18.03 | Windows, Mac OS X or Linux  |
 | 2-6 | fastText 0.1.0, Python 3 or above, Perl 5.o or above, Jupyter Notebook 5.5.0, Keras 2.2.0, Gensim 3.5.0, NumPy 1.14, SciPy 1.1.0, Pandas 0.23.2, TensorFlow 1.9, PyTorch 0.4.0, torchtext 0.2.3, Scikit-learn 0.19.1, spaCy 2.0.11 | Mac OS X, and Linux (Any) |
 | 7 | Python 3 or above, Flask 0.12.4, Android Studio | Windows, Mac OS X or  Linux (Any) |
-|  |  | Windows, Mac OS X, and Linux (Any) |
-|  |  | Windows, Mac OS X, and Linux (Any) |
-|  |  | Windows, Mac OS X, and Linux (Any) |
-|  |  | Windows, Mac OS X, and Linux (Any) |
-|  |  | Windows, Mac OS X, and Linux (Any) |
 
-We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it]().
+
 
 ### Related products
 *  [[Packt]]() [[Amazon]](https://www.amazon.com/dp/)
