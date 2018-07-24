@@ -16,8 +16,7 @@ Finally, you will deploy fastText models to mobile devices. By the end of this b
 This book covers the following exciting features:
 * Create models using the default command line options in fastText
 * Understand the algorithms used in fastText to create word vectors
-* Combine command line text transformation capabilities and the fastText library to implement a training, validation, and prediction    
-  pipeline
+* Combine command line text transformation capabilities and the fastText library to implement a training, validation, and prediction pipeline
 * Explore word representation and sentence classification using fastText
 * Use Gensim and spaCy to load the vectors, transform, lemmatize, and perform other NLP tasks efficiently
 
