@@ -7,15 +7,21 @@ This is the code repository for [fastText Quick Start Guide](https://www.packtpu
 **Get started with Facebook's library for text representation and classification**
 
 ## What is this book about?
-Facebook's fastText library handles text representation and classification, used for Natural Language Processing (NLP). Most organizations have to deal with enormous amounts of text data on a daily basis, and gaining efficient data insights requires powerful NLP tools such as fastText. 
+	Facebook's fastText library handles text representation and classification, used for Natural Language Processing (NLP). Most organizations have to deal with enormous amounts of text data on a daily basis, and gaining efficient data insights requires powerful NLP tools such as fastText. 
 This book is your ideal introduction to fastText. You will learn how to create fastText models from the command line, without the need for complicated code. You will explore the algorithms that fastText is built on and how to use them for word representation and text classification. 
 Next, you will use fastText in conjunction with other popular libraries and frameworks such as Keras, TensorFlow, and PyTorch. 
 Finally, you will deploy fastText models to mobile devices. By the end of this book, you will have all the required knowledge to use fastText in your own applications at work or in projects.
 
 This book covers the following exciting features:
+* Create models using the default command line options in fastText
+* Understand the algorithms used in fastText to create word vectors
+* Combine command line text transformation capabilities and the fastText library to implement a training, validation, and prediction    
+  pipeline
+* Explore word representation and sentence classification using fastText
+* Use Gensim and spaCy to load the vectors, transform, lemmatize, and perform other NLP tasks efficiently
 
 
-If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1-789-13099-9) today!
+If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1789130999) today!
 
 <a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" 
 alt="https://www.packtpub.com/" border="5" /></a>
@@ -46,13 +52,11 @@ With the following software and hardware list you can run all code files present
 
 
 ### Related products
-*  [[Packt]]() [[Amazon]](https://www.amazon.com/dp/)
+* Natural Language Processing with Python Cookbook  [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/natural-language-processing-python-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781787289321) [[Amazon]](https://www.amazon.com/dp/178728932X)
 
-*  [[Packt]]() [[Amazon]](https://www.amazon.com/dp/)
+* Natural Language Processing with TensorFlow [[Packt]](https://www.packtpub.com/application-development/natural-language-processing-tensorflow?utm_source=github&utm_medium=repository&utm_campaign=9781788478311) [[Amazon]](https://www.amazon.com/dp/1788478312)
 
-*  [[Packt]]() [[Amazon]](https://www.amazon.com/dp/)
 
-*  [[Packt]]() [[Amazon]](https://www.amazon.com/dp/)
 
 ## Get to Know the Author
 **Joydeep Bhattacharjee**
