@@ -1,6 +1,6 @@
 # fastText Quick Start Guide
 
-<a href="https://www.packtpub.com/big-data-and-business-intelligence/fasttext-quick-start-guide?utm_source=github&utm_medium=repository&utm_campaign=9781789130997"><img src="https://dz13w8afd47il.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B10726_MockupCover.png" alt="fastText Quick Start Guide" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/big-data-and-business-intelligence/fasttext-quick-start-guide?utm_source=github&utm_medium=repository&utm_campaign=9781789130997"><img src="https://d255esdrn735hr.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B10726.png" alt="fastText Quick Start Guide" height="256px" align="right"></a>
 
 This is the code repository for [fastText Quick Start Guide](https://www.packtpub.com/big-data-and-business-intelligence/fasttext-quick-start-guide?utm_source=github&utm_medium=repository&utm_campaign=9781789130997), published by Packt.
 
