@@ -1,7 +1,3 @@
-## [Get this title for $10 on Packt's Spring Sale](https://www.packt.com/B10726?utm_source=github&utm_medium=packt-github-repo&utm_campaign=spring_10_dollar_2022)
------
-For a limited period, all eBooks and Videos are only $10. All the practical content you need \- by developers, for developers
-
 # fastText Quick Start Guide
 
 <a href="https://www.packtpub.com/big-data-and-business-intelligence/fasttext-quick-start-guide?utm_source=github&utm_medium=repository&utm_campaign=9781789130997"><img src="https://d255esdrn735hr.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B10726.png" alt="fastText Quick Start Guide" height="256px" align="right"></a>
